@@ -1,0 +1,33 @@
+.page{
+    display: none;
+}
+.active{
+    display: block;
+}
+h1 {
+    text-align: center;
+    color: teal;
+}
+body{
+    background-color: brown;
+}
+#vaihdasivubtn{
+    background-color: chartreuse;
+    font-size: large;  
+}
+#laskusivubtn{
+    background-color: darkviolet;
+    font-size: large;  
+}
+#laskuja{
+    background-color: firebrick;
+    font-size: large;  
+}
+#koordinaatit{
+    background-color: forestgreen;
+    font-size: large;  
+}
+button{
+    margin: auto;
+    display: block;
+}
